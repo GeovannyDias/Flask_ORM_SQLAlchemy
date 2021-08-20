@@ -1,2 +1,2 @@
-# Flask_ORM_SQLAlchemy
+# Flask - ORM SQLAlchemy
 Flask - ORM with SQLAlchemy
